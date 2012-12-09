@@ -1,0 +1,26 @@
+{
+  "name":        "hubot-clean",
+  "version":     "0.1",
+  "author":      "David van Leeuwen",
+  "keywords":    "github hubot campfire bot clean schedule",
+  "description": "A hubot script that will make sure people will clean up their mess",
+  "licenses":     [{
+    "type":     "MIT",
+    "url":      "http://github.com/nandub/hubot-irc/raw/master/LICENSE"
+  }],
+
+  "repository" : {
+    "type": "git",
+    "url":  "https://github.com/davidvanleeuwen/hubot-clean.git"
+  },
+
+  "dependencies": {
+    "request": "2.12.0",
+    "moment": "1.7.2",
+    "underscore": "1.4.3",
+    "redis": "0.8.2"
+  },
+
+  "main": "./hubot-clean",
+}
+
