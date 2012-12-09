@@ -6,7 +6,7 @@
   "description": "A hubot script that will make sure people will clean up their mess",
   "licenses":     [{
     "type":     "MIT",
-    "url":      "http://github.com/nandub/hubot-irc/raw/master/LICENSE"
+    "url":      "http://github.com/davidvanleeuwen/hubot-clean/raw/master/LICENSE"
   }],
 
   "repository" : {
